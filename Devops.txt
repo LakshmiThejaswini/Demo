@@ -1,0 +1,5 @@
+Ctl+insert -Copy
+Sht+insert -Paste
+---------------------------
+ssh devops@3.83.122.235
+Dev0p$!!/	
